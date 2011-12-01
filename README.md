@@ -32,6 +32,6 @@ class ArticlesView extends lumbar.View
 
 ## Credits
 
-* (Coffee-Script)[http://jashkenas.github.com/coffee-script/] by Jeremy Ashkenas
-* (Underscore.js)[http://documentcloud.github.com/underscore/] by DocumentCloud
-* (CoffeeKup)[https://github.com/mauricemach/coffeekup] by Maurice Machado
+* [Coffee-Script](http://jashkenas.github.com/coffee-script/) by Jeremy Ashkenas
+* [Underscore.js](http://documentcloud.github.com/underscore/) by DocumentCloud
+* [CoffeeKup](https://github.com/mauricemach/coffeekup) by Maurice Machado
