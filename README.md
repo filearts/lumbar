@@ -24,7 +24,7 @@ class ArticleView extends lumbar.View
 # Define the container view for the collection of articles
 class ArticlesView extends lumbar.View
   # Create an ArticleView with each model in this view's collection
-  @attachAll "@", ArticleView
+  @attachAll "#articles", ArticleView
   
   template: ->
     section "#articles", ->
